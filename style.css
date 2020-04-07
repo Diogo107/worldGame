@@ -1,0 +1,11 @@
+div {
+  display: flex;
+  justify-content: center;
+  margin: 5em auto;
+  width: 80vw;
+  height: 50vh;
+}
+canvas {
+  width: 100%;
+  overflow: auto;
+}
